@@ -1,0 +1,3 @@
+<!doctype html>
+<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Skybook API · Swagger</title><link rel="stylesheet" href="/assets/swagger/swagger-ui.css"><style>body{margin:0;background:#fafafa}header{background:#103b38;color:white;padding:18px 5%;font:16px system-ui}header a{color:white;margin-right:30px;text-decoration:none}</style></head>
+<body><header><a href="/">↗ skybook</a> Flight booking API · CodeIgniter 4 · JWT</header><div id="swagger-ui"></div><script src="/assets/swagger/swagger-ui-bundle.js"></script><script>SwaggerUIBundle({url:'/openapi.json',dom_id:'#swagger-ui',deepLinking:true,persistAuthorization:false});</script></body></html>

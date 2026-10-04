@@ -1,0 +1,12 @@
+{
+  "name": "skybook-ui",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "assets": "node scripts/copy-assets.cjs",
+    "test:api": "node tests/api.cjs",
+    "test:ui": "node tests/browser.cjs"
+  },
+  "dependencies": { "swagger-ui-dist": "5.32.3" },
+  "devDependencies": { "playwright": "1.58.2", "@zxing/library": "0.21.3" }
+}
